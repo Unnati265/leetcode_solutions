@@ -35,6 +35,7 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,12 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
