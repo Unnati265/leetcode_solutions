@@ -47,9 +47,18 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Unnati265/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Unnati265/leetcode_solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Unnati265/leetcode_solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
