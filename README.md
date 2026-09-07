@@ -61,4 +61,12 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Unnati265/leetcode_solutions/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Unnati265/leetcode_solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Unnati265/leetcode_solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
