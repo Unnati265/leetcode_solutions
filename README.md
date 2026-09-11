@@ -34,6 +34,7 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -43,6 +44,7 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
@@ -64,6 +66,7 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Unnati265/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
