@@ -59,6 +59,7 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Unnati265/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -72,4 +73,16 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Unnati265/leetcode_solutions/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
