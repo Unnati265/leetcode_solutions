@@ -42,6 +42,7 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Unnati265/leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -72,10 +73,12 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 | [0088-merge-sorted-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Unnati265/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/Unnati265/leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Unnati265/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Unnati265/leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +91,8 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Unnati265/leetcode_solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
