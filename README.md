@@ -37,6 +37,7 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Unnati265/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -44,17 +45,20 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Unnati265/leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Unnati265/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -65,6 +69,7 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 | ------- |
 | [0069-sqrtx](https://github.com/Unnati265/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
@@ -103,4 +108,8 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Unnati265/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
