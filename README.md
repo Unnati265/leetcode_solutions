@@ -34,6 +34,7 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Unnati265/leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@ Tracking my progress as I work through LeetCode and improve my problem-solving a
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Unnati265/leetcode_solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Unnati265/leetcode_solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Unnati265/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Unnati265/leetcode_solutions/tree/master/0567-permutation-in-string) |
